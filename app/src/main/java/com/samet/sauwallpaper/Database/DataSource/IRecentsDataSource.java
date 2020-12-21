@@ -17,3 +17,5 @@ public interface IRecentsDataSource {
     void  deleteRecents(Recents... recents);
     void  deleteAllRecents();
 }
+
+/** Proje layoutları üzerinde genel çalışma yapıldı **/
